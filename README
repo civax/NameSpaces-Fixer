@@ -1,0 +1,12 @@
+/* 
+		NameSpace Fixer
+		
+		* Copyright 2011 (c) by SoftwareAllies/Nearatec
+		* All Rights Reserved
+	 	* 
+	 	* The purpose of this class is to automate the adding and removing name spaces from visual force's
+	 	* pages, apex classes and triggers. 
+	 	* 
+	 	* @author Carlos Castillo
+	 	* @copyright SoftwareAllies/Nearatec 2011
+*/
